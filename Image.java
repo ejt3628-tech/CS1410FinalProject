@@ -1,4 +1,4 @@
-package assign010;
+package assign10;
 
 import java.awt.image.BufferedImage;
 import java.io.File;
